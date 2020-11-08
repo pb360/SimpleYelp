@@ -17,7 +17,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/w0XwysR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/ywuj6tt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [shareX](http://www.shareX.com/).
 

@@ -19,6 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/aQRaQfy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
 GIF created with [shareX](http://www.shareX.com/).
 
 ## Notes
